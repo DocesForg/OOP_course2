@@ -1,0 +1,121 @@
+import random
+
+class Unit:
+    """
+    Базовый класс для всех игровых юнитов.
+    """
+    next_id = 1  # Классовая переменная для генерации уникальных ID
+
+    def __init__(self, team):
+        """
+        Конструктор базового класса.
+        :param team: Номер команды, к которой принадлежит юнит.
+        """
+        self.id = Unit.next_id  # Уникальный ID юнита
+        Unit.next_id += 1
+        self.team = team  # Команда юнита
+
+    def __str__(self):
+        """
+        Возвращает строковое представление юнита (для удобства отладки).
+        """
+        return f"Unit ID: {self.id}, Team: {self.team}"
+
+
+class Soldier(Unit):
+    """
+    Класс, представляющий солдата.
+    """
+
+    def __init__(self, team):
+        """
+        Конструктор класса Soldier.
+        :param team: Номер команды, к которой принадлежит солдат.
+        """
+        super().__init__(team)  # Вызываем конструктор базового класса Unit
+        self.following = None # Указывает, за каким героем следует солдат
+
+    def follow_hero(self, hero):
+        """
+        Метод, заставляющий солдата следовать за героем.
+        :param hero: Объект типа Hero, за которым должен следовать солдат.
+        """
+        if isinstance(hero, Hero):
+            self.following = hero
+            print(f"Солдат {self.id} (команда {self.team}) следует за героем {hero.id} (команда {hero.team})")
+        else:
+            print("Ошибка: Объект hero должен быть типа Hero")
+
+    def __str__(self):
+        """
+        Возвращает строковое представление солдата.
+        """
+        return f"Soldier ID: {self.id}, Team: {self.team}"
+
+class Hero(Unit):
+    """
+    Класс, представляющий героя.
+    """
+
+    def __init__(self, team):
+        """
+        Конструктор класса Hero.
+        :param team: Номер команды, к которой принадлежит герой.
+        """
+        super().__init__(team)  # Вызываем конструктор базового класса Unit
+        self.level = 1  # Начальный уровень героя
+
+    def level_up(self):
+        """
+        Метод для повышения уровня героя.
+        """
+        self.level += 1
+        print(f"Герой {self.id} (команда {self.team}) повысил уровень до {self.level}")
+
+    def __str__(self):
+        """
+        Возвращает строковое представление героя.
+        """
+        return f"Hero ID: {self.id}, Team: {self.team}, Level: {self.level}"
+
+
+# Основная ветка программы
+if __name__ == "__main__":
+    # Создаем героев для каждой команды
+    hero1 = Hero(1)  # Герой для команды 1
+    hero2 = Hero(2)  # Герой для команды 2
+
+    # Создаем списки для солдат каждой команды
+    team1_soldiers = []
+    team2_soldiers = []
+
+    num_soldiers = 20  # Количество создаваемых солдат
+
+    # Создаем солдат и распределяем их по командам случайным образом
+    for _ in range(num_soldiers):
+        team = random.choice([1, 2])  # Случайный выбор команды
+        soldier = Soldier(team)  # Создаем солдата
+        if team == 1:
+            team1_soldiers.append(soldier)  # Добавляем в список первой команды
+        else:
+            team2_soldiers.append(soldier)  # Добавляем в список второй команды
+
+    # Выводим количество солдат в каждой команде
+    print(f"Количество солдат в команде 1: {len(team1_soldiers)}")
+    print(f"Количество солдат в команде 2: {len(team2_soldiers)}")
+
+    # Повышаем уровень герою команды с большим количеством солдат
+    if len(team1_soldiers) > len(team2_soldiers):
+        hero1.level_up()  # Повышаем уровень герою первой команды
+    elif len(team2_soldiers) > len(team1_soldiers):
+        hero2.level_up()  # Повышаем уровень герою второй команды
+    else:
+        print("Количество солдат в обеих командах одинаковое.")
+
+    # Отправляем одного из солдат первого героя следовать за ним
+    if team1_soldiers: # Проверяем, есть ли солдаты в первой команде
+      first_soldier_team1 = team1_soldiers[0]  # Берем первого солдата из списка первой команды
+      first_soldier_team1.follow_hero(hero1)  # Заставляем его следовать за первым героем
+      print(f"ID солдата: {first_soldier_team1.id}, ID героя: {hero1.id}") # Выводим ID солдата и героя
+    else:
+      print("В первой команде нет солдат.")
