@@ -17,48 +17,49 @@
 # Группа: ПИЖ-б-о-23-2(2)
 
 
-from typing import List
-from deposit import deposits
-from deposit import TimeDeposit
+from typing import List  # Импортируем List из модуля typing для указания типа списка
 
-if __name__ == "__main__":
-    print("Добро пожаловать в систему подбора вкладов!")
+from deposit import deposits  # Импортируем переменную deposits (предположительно, список вкладов) из модуля deposit
+from deposit import TimeDeposit  # Импортируем класс TimeDeposit из модуля deposit (определение вклада)
 
-    while True:
-        print("\n-----")
-        print("Нажмите 1, чтобы подобрать вклад, или что угодно для выхода.")
+if __name__ == "__main__":  # Проверяем, является ли этот файл точкой входа (запускаемым скриптом)
+    print("Добро пожаловать в систему подбора вкладов!")  # Выводим приветственное сообщение
 
-        answer = input()
-        if answer == "1":
+    while True:  # Запускаем бесконечный цикл, пока пользователь не захочет выйти
+        print("\n-----")  # Выводим разделитель для улучшения читаемости
+        print("Нажмите 1, чтобы подобрать вклад, или что угодно для выхода.")  # Предлагаем пользователю выбор
 
-            initial_sum = float(input("1/2: Введите начальную сумму вклада: "))
-            period = int(input("2/2: Введите срок вклада (мес.): "))
+        answer = input()  # Получаем ввод пользователя
+        if answer == "1":  # Если пользователь ввел "1", значит хочет подобрать вклад
 
-            matched_deposits: List[TimeDeposit] = []
-            for deposit in deposits:
-                try:
-                    deposit._check_user_params(initial_sum, period)
-                    matched_deposits.append(deposit)
-                except AssertionError as err:
-                    pass
+            initial_sum = float(input("1/2: Введите начальную сумму вклада: "))  # Запрашиваем начальную сумму вклада и преобразуем в float
+            period = int(input("2/2: Введите срок вклада (мес.): "))  # Запрашиваем срок вклада в месяцах и преобразуем в int
 
-            if len(matched_deposits) > 0:
-                print("{0:18} | {1:13} | {2:13}".format(
-                    "Вклад", "Прибыль", "Итоговая сумма"
+            matched_deposits: List[TimeDeposit] = []  # Инициализируем пустой список для хранения подходящих вкладов (тип: список объектов TimeDeposit)
+            for deposit in deposits:  # Перебираем каждый вклад в списке deposits
+                try:  # Пытаемся выполнить следующий код
+                    deposit._check_user_params(initial_sum, period)  # Проверяем, подходит ли текущий вклад под параметры пользователя (сумма, срок). Метод, вероятно, вызывает исключение AssertionError если не подходит.
+                    matched_deposits.append(deposit)  # Если проверка прошла успешно, добавляем вклад в список подходящих вкладов
+                except AssertionError as err:  # Если произошло исключение AssertionError (вклад не подходит)
+                    pass  # Просто пропускаем этот вклад (ничего не делаем)
+
+            if len(matched_deposits) > 0:  # Если список подходящих вкладов не пуст
+                print("{0:18} | {1:13} | {2:13}".format(  # Выводим заголовок таблицы
+                    "Вклад", "Прибыль", "Итоговая сумма"  # Названия столбцов
                 ))
-                for deposit in matched_deposits:
-                    print("{0:18} | {1:8,.2f} {3:4} | {2:8,.2f} {3:4}".format(
-                          deposit.name,
-                          deposit.get_profit(initial_sum, period),
-                          deposit.get_sum(initial_sum, period),
-                          deposit.currency))
-            else:
-                print("К сожалению, нет подходящих Вам вкладов.")
+                for deposit in matched_deposits:  # Перебираем каждый подходящий вклад
+                    print("{0:18} | {1:8,.2f} {3:4} | {2:8,.2f} {3:4}".format(  # Выводим информацию о вкладе в формате таблицы
+                          deposit.name,  # Имя вклада
+                          deposit.get_profit(initial_sum, period),  # Прибыль от вклада
+                          deposit.get_sum(initial_sum, period),  # Итоговая сумма вклада
+                          deposit.currency))  # Валюта вклада
+            else:  # Если нет подходящих вкладов
+                print("К сожалению, нет подходящих Вам вкладов.")  # Выводим сообщение об отсутствии подходящих вкладов
 
-        else:
-            break
+        else:  # Если пользователь ввел что-то другое, кроме "1"
+            break  # Выходим из бесконечного цикла
 
-    print("\nСпасибо, что воспользовались терминалом банка! До встречи!")
+    print("\nСпасибо, что воспользовались терминалом банка! До встречи!")  # Выводим прощальное сообщение
 
 # -------------
 # Пример вывода (файл):
