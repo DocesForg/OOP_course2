@@ -1,0 +1,6 @@
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/CMakeFiles/mp3.dir
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/lib/CMakeFiles/parser.dir
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/lib/CMakeFiles/edit_cache.dir
+D:/Desktop/pizh2322_malcev-week07_week16/labwork7/out/build/x64-Debug/lib/CMakeFiles/rebuild_cache.dir

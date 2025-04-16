@@ -1,0 +1,5 @@
+# ninja log v5
+3	442	7665358249126060	CMakeFiles/mp3.dir/main.cpp.obj	6ac965b71da15c9
+6	481	7665358249515246	lib/CMakeFiles/parser.dir/parser.cpp.obj	8ddad5e20c9778
+481	563	7665358249984507	lib/parser.lib	258e5c79c1dc97e0
+564	990	7665358254162033	mp3.exe	a62250c1ded809b4

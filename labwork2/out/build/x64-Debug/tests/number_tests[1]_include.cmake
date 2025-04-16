@@ -1,0 +1,5 @@
+if(EXISTS "D:/Desktop/pizh2322_malcev-week07_week16/labwork2/out/build/x64-Debug/tests/number_tests[1]_tests.cmake")
+  include("D:/Desktop/pizh2322_malcev-week07_week16/labwork2/out/build/x64-Debug/tests/number_tests[1]_tests.cmake")
+else()
+  add_test(number_tests_NOT_BUILT number_tests_NOT_BUILT)
+endif()

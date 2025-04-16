@@ -1,0 +1,4 @@
+# ninja log v5
+2	326	7665255774761381	CMakeFiles/sandpile-model.dir/main.cpp.obj	ff55996196599951
+7	327	7665255774761381	CMakeFiles/sandpile-model.dir/Sand.cpp.obj	9b8dd58abea0e003
+327	820	7665255779180239	sandpile-model.exe	dfcaa3da1001da08

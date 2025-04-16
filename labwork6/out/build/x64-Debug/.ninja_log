@@ -1,0 +1,15 @@
+# ninja log v5
+44	1418	7665244254192806	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	859d023bedecb96a
+9	1420	7665244254277647	bin/CMakeFiles/app.dir/main.cpp.obj	7f14a053605e2f54
+13	1701	7665244257088570	tests/CMakeFiles/parser_tests.dir/test_parser.cpp.obj	6dbb8c1dc1a21583
+18	1717	7665244257208199	tests/CMakeFiles/parser_tests.dir/test_format.cpp.obj	57460d8bad85b0a5
+39	1992	7665244259874716	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	fba514ce72444d36
+28	2050	7665244260687124	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	fc1088b7649b629f
+49	2590	7665244266008809	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	9b5cc31cd447ffa2
+33	2651	7665244266698078	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	4459548fc6c60857
+23	2726	7665244267418899	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	ab66e2290e5f302d
+25	551	7665244660128426	lib/gmock.lib	89b98a196e25c96c
+40	611	7665244660182915	lib/gtest.lib	73bb8d3446618c5e
+32	648	7665244660182915	lib/gmock_main.lib	de5b6b89b32d1468
+49	676	7665244665206199	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	b6c02496ec39dc0
+20	89	7665245272322648	lib/gtest_main.lib	39a525135c2fcc8b
