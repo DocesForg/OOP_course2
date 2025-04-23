@@ -1,0 +1,21 @@
+# ninja log v5
+2	58	7665242719967749	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	dde9274b4fedf4df
+2	58	7665242719967749	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	dde9274b4fedf4df
+58	4891	7665242768302595	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	600e041dd4fc3247
+58	4891	7665242768302595	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	600e041dd4fc3247
+4891	5014	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	93da8ac1001395e4
+4891	5014	0	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	93da8ac1001395e4
+5014	5057	7665242769978201	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d31be5668d0a65d2
+5014	5057	7665242769978201	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d31be5668d0a65d2
+5057	5099	7665242770401676	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8e5cd0c621b4149
+5057	5099	7665242770401676	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8e5cd0c621b4149
+5099	5144	7665242770850670	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	938dd2389cfaccd1
+5099	5144	7665242770850670	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	938dd2389cfaccd1
+5144	5189	7665242771294048	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9dc9cab059e9159f
+5144	5189	7665242771294048	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9dc9cab059e9159f
+5189	5234	7665242771746812	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f032a4924397d729
+5189	5234	7665242771746812	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f032a4924397d729
+5234	5297	7665242772369804	CMakeFiles/googletest-populate-complete	4dc979b0d67d763b
+5234	5297	7665242772369804	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4dc979b0d67d763b
+5234	5297	7665242772369804	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	4dc979b0d67d763b
+5234	5297	7665242772369804	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4dc979b0d67d763b

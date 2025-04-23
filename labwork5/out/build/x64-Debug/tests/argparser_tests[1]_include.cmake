@@ -1,0 +1,5 @@
+if(EXISTS "D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/tests/argparser_tests[1]_tests.cmake")
+  include("D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/tests/argparser_tests[1]_tests.cmake")
+else()
+  add_test(argparser_tests_NOT_BUILT argparser_tests_NOT_BUILT)
+endif()

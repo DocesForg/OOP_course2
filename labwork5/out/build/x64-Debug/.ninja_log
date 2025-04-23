@@ -1,0 +1,24 @@
+# ninja log v5
+3	701	7665243177451791	lib/CMakeFiles/utils.dir/utils.cpp.obj	95e10ed9ded4ee1c
+12	742	7665243177795754	lib/CMakeFiles/argument.dir/Argument.cpp.obj	24a45b463dc496cc
+16	751	7665243177925314	bin/CMakeFiles/parser.dir/main.cpp.obj	841362298f6fb038
+8	922	7665243179365600	lib/CMakeFiles/argparser.dir/ArgParser.cpp.obj	48a0e40cc4049b35
+702	1284	7665243182131726	lib/utils.lib	5aea94ccb2c47d80
+20	1320	7665243183492335	tests/CMakeFiles/argparser_tests.dir/argparser_test.cpp.obj	8a75d73809815dd7
+742	1361	7665243182560334	lib/argument.lib	97c98bc13b1af3e2
+44	1455	7665243185127061	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	622751cef8300a29
+923	1507	7665243184917768	lib/argparser.lib	6af0b818eea18ffb
+30	1958	7665243190016275	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	27dad1d47c4cb419
+40	2248	7665243193071781	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	6edbc814b7bdd5c5
+1284	2615	7665243196770924	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	de4b54d7bd03988c
+35	2782	7665243198398901	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	93fe5c9440852fc3
+25	2796	7665243198537741	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	d722a34b14b39906
+1508	2930	7665243199146322	bin/parser.exe	aac2c02281f35f7a
+2782	3196	7665243199156514	lib/gmock_main.lib	de5b6b89b32d1468
+2796	3205	7665243199239895	lib/gmock.lib	89b98a196e25c96c
+751	3410	7665243204697583	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cc50850a83bdc62d
+3410	3579	7665243205214785	lib/gtest.lib	73bb8d3446618c5e
+3579	3639	7665243206758685	lib/gtest_main.lib	39a525135c2fcc8b
+3639	4295	7665243213571330	tests/argparser_tests.exe	460520198765f589
+3639	4295	7665243213571330	tests/argparser_tests[1]_tests.cmake	460520198765f589
+3639	4295	7665243213571330	D:/Desktop/pizh2322_malcev-week07_week16/labwork5/out/build/x64-Debug/tests/argparser_tests[1]_tests.cmake	460520198765f589
