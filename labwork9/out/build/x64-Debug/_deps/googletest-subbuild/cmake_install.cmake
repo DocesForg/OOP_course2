@@ -1,4 +1,4 @@
-# Install script for directory: D:/Desktop/pizh2322_malcev-week07_week16/labwork9/out/build/x64-Debug/_deps/googletest-subbuild
+# Install script for directory: D:/Desktop/labwork9/out/build/x64-Debug/_deps/googletest-subbuild
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Desktop/pizh2322_malcev-week07_week16/labwork9/out/build/x64-Debug/_deps/googletest-subbuild/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Desktop/labwork9/out/build/x64-Debug/_deps/googletest-subbuild/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

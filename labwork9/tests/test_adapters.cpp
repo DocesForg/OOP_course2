@@ -1,96 +1,98 @@
 #include <gtest/gtest.h>
-#include <cstdint>
-#include <random>
+#include <vector>
+#include <list>
+#include <deque>
+#include <map>
+#include "adapters.h"
 
-#include "lib/ranges.h"
+// Базовые тесты для каждого адаптера
+TEST(BasicAdapters, FilterOnly) {
+    std::vector<int> v = {10, 20, 30, 40};
+    auto result = v | filter([](int x) { return x > 25; });
 
-TEST(TransformAdapterTest, TransformFunctionWorksCorrectly) {
-  const std::vector input = {1, 2, 3, 4};
-  const std::vector ans = {2, 4, 6, 8};
-
-  auto result = input | ranges::transform([](const int x) { return x * 2; });
-  auto iterator = result.begin();
-
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    std::vector<int> expected{30, 40};
+    std::vector<int> actual;
+    for(int x : result) actual.push_back(x);
+    ASSERT_EQ(expected, actual);
 }
 
-TEST(FilterAdapterTest, FilterByCondition) {
-  const std::vector input = {1, 2, 3, 4};
-  const std::vector ans = {2, 4};
+TEST(BasicAdapters, TransformOnly) {
+    std::list<int> lst = {1, 2, 3};
+    auto result = lst | transform([](int x) { return x * 10; });
 
-  auto result = input | ranges::filter([](const int x) { return x % 2 == 0; });
-  auto iterator = result.begin();
+    // Явное копирование через цикл
+    std::vector<int> actual;
+    for(int x : result) {
+        actual.push_back(x);
+    }
 
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    std::vector<int> expected{10, 20, 30};
+    ASSERT_EQ(expected, actual);
 }
 
-TEST(TakeAdapterTest, TakeFirstNElements) {
-  const std::vector input = {1, 2, 3, 4};
-  const std::vector ans = {1, 2};
+TEST(BasicAdapters, DropOnly) {
+    std::vector<int> v = {100, 200, 300};
+    auto result = v | drop(1);
 
-  auto result = input | ranges::take(2);
-  auto iterator = result.begin();
-
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    std::vector<int> actual;
+    for(int x : result) actual.push_back(x);
+    ASSERT_EQ((std::vector<int>{200, 300}), actual);
 }
 
-TEST(DropAdapterTest, DropFirstNElements) {
-  const std::vector input = {1, 2, 3, 4};
-  const std::vector ans = {3, 4};
+TEST(BasicAdapters, ReverseOnly) {
+    std::list<std::string> lst = {"a", "b", "c"};
+    auto reversed = lst | reverse();
 
-  auto result = input | ranges::drop(2);
-  auto iterator = result.begin();
-
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    std::vector<std::string> actual(reversed.begin(), reversed.end());
+    ASSERT_EQ((std::vector<std::string>{"c", "b", "a"}), actual);
 }
 
-TEST(ReverseAdapterTest, ReverseContainer) {
-  const std::vector input = {1, 2, 3, 4};
-  const std::vector ans = {4, 3, 2, 1};
+// Тест для пограничных случаев
 
-  auto result = input | ranges::reverse();
-  auto iterator = result.begin();
+TEST(EdgeCases, DropAllElements) {
+    std::list<int> lst = {10, 20};
+    auto result = lst | drop(2);
 
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    EXPECT_TRUE(result.begin() == result.end());
 }
 
-TEST(KeysAdapterTest, GetKeysFromMap) {
-  const std::map<int, std::string> input = {{1, "one"}, {2, "two"}};
-  const std::vector<int> ans = {1, 2};
+// Тесты для разных типов контейнеров
+TEST(ContainerTypes, DequeWithTransform) {
+    std::deque<int> dq = {3, 4, 5};
+    auto result = dq | transform([](int x) { return x - 2; });
 
-  auto result = input | ranges::keys();
-  auto iterator = result.begin();
-
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+    std::vector<int> actual(result.begin(), result.end());
+    ASSERT_EQ((std::vector<int>{1, 2, 3}), actual);
 }
 
-TEST(ValuesAdapterTest, GetValuesFromMap) {
-  const std::map<int, std::string> input = {{1, "one"}, {2, "two"}};
-  std::vector<std::string> ans = {"one", "two"};
+// Простые комбинации адаптеров
+TEST(Combinations, FilterTransform) {
+    std::vector<int> v = {1, 2, 3, 4};
+    auto result = v | filter([](int x) { return x % 2 == 0; })
+                   | transform([](int x) { return x / 2; });
 
-  auto result = input | ranges::values();
-  auto iterator = result.begin();
+    std::vector<int> actual(result.begin(), result.end());
+    ASSERT_EQ((std::vector<int>{1, 2}), actual);
+}
 
-  for (auto r : result) {
-    EXPECT_EQ(r, *iterator);
-    ++iterator;
-  }
+TEST(Combinations, DropTransform) {
+    std::vector<int> v = {5, 4, 3, 2};
+    auto result = v | drop(1) | transform([](int x) { return x * 10; });
+
+    std::vector<int> actual(result.begin(), result.end());
+    ASSERT_EQ((std::vector<int>{40, 30, 20}), actual);
+}
+
+// Тесты для строк
+TEST(StringTests, TransformStrings) {
+    std::vector<std::string> v = {"a", "bc", "def"};
+    auto result = v | transform([](const std::string& s) { return s.size(); });
+
+    std::vector<size_t> actual(result.begin(), result.end());
+    ASSERT_EQ((std::vector<size_t>{1, 2, 3}), actual);
+}
+
+int main(int argc, char **argv) {
+    testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
 }

@@ -13,18 +13,19 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 add_executable(
-        tests_adapters
+        adapter_tests
         test_adapters.cpp
 )
 
 target_link_libraries(
-        tests_adapters
-        gtest
-        gtest_main
+        adapter_tests
+        adapters
+        GTest::gtest_main
 )
 
-target_include_directories(tests_adapters PUBLIC ..)
+target_include_directories(adapter_tests PUBLIC ${PROJECT_SOURCE_DIR})
+add_test(NAME adapter_tests COMMAND adapter_tests)
 
 include(GoogleTest)
 
-gtest_discover_tests(tests_adapters)
+gtest_discover_tests(adapter_tests)

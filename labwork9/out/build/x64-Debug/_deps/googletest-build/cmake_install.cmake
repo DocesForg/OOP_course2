@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/pizh2322_malcev-week07_week16/labwork9/out/build/x64-Debug/_deps/googletest-src
+# Install script for directory: D:/Desktop/labwork9/out/build/x64-Debug/_deps/googletest-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/pizh2322_malcev-week07_week16/labwork9/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "D:/Desktop/labwork9/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Desktop/pizh2322_malcev-week07_week16/labwork9/out/build/x64-Debug/_deps/googletest-build/googlemock/cmake_install.cmake")
+  include("D:/Desktop/labwork9/out/build/x64-Debug/_deps/googletest-build/googlemock/cmake_install.cmake")
 
 endif()
 

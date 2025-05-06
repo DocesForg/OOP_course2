@@ -1,0 +1,5 @@
+if(EXISTS "D:/Desktop/labwork9/out/build/x64-Debug/tests/adapter_tests[1]_tests.cmake")
+  include("D:/Desktop/labwork9/out/build/x64-Debug/tests/adapter_tests[1]_tests.cmake")
+else()
+  add_test(adapter_tests_NOT_BUILT adapter_tests_NOT_BUILT)
+endif()
