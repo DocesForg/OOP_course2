@@ -1,0 +1,2055 @@
+Start testing: May 06 22:09 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/76 Testing: ParserTestSuite.EmptyTest
+1/76 Test: ParserTestSuite.EmptyTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.EmptyTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.EmptyTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.EmptyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.EmptyTest
+[       OK ] ParserTestSuite.EmptyTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.EmptyTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.EmptyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/76 Testing: ParserTestSuite.IntTest
+2/76 Test: ParserTestSuite.IntTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.IntTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.IntTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.IntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.IntTest
+[       OK ] ParserTestSuite.IntTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.IntTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.IntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/76 Testing: ParserTestSuite.InvalidIntTest
+3/76 Test: ParserTestSuite.InvalidIntTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidIntTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.InvalidIntTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidIntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidIntTest
+[       OK ] ParserTestSuite.InvalidIntTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidIntTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.InvalidIntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/76 Testing: ParserTestSuite.FloatTest
+4/76 Test: ParserTestSuite.FloatTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.FloatTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.FloatTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.FloatTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.FloatTest
+[       OK ] ParserTestSuite.FloatTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.FloatTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.FloatTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/76 Testing: ParserTestSuite.InvalidFloatTest
+5/76 Test: ParserTestSuite.InvalidFloatTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidFloatTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.InvalidFloatTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidFloatTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidFloatTest
+[       OK ] ParserTestSuite.InvalidFloatTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidFloatTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.InvalidFloatTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/76 Testing: ParserTestSuite.StringTest
+6/76 Test: ParserTestSuite.StringTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.StringTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.StringTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.StringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.StringTest
+[       OK ] ParserTestSuite.StringTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.StringTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.StringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/76 Testing: ParserTestSuite.InvalidStringTest
+7/76 Test: ParserTestSuite.InvalidStringTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidStringTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.InvalidStringTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidStringTest
+[       OK ] ParserTestSuite.InvalidStringTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidStringTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.InvalidStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/76 Testing: ParserTestSuite.ArrayTest
+8/76 Test: ParserTestSuite.ArrayTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.ArrayTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.ArrayTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.ArrayTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.ArrayTest
+[       OK ] ParserTestSuite.ArrayTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.ArrayTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.ArrayTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/76 Testing: ParserTestSuite.CommentsTest
+9/76 Test: ParserTestSuite.CommentsTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ParserTestSuite.CommentsTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ParserTestSuite.CommentsTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ParserTestSuite.CommentsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.CommentsTest
+[       OK ] ParserTestSuite.CommentsTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.CommentsTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"ParserTestSuite.CommentsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/76 Testing: FormatTestSuite.KeyRedifenitionTest
+10/76 Test: FormatTestSuite.KeyRedifenitionTest
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FormatTestSuite.KeyRedifenitionTest" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FormatTestSuite.KeyRedifenitionTest" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FormatTestSuite.KeyRedifenitionTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatTestSuite
+[ RUN      ] FormatTestSuite.KeyRedifenitionTest
+[       OK ] FormatTestSuite.KeyRedifenitionTest (0 ms)
+[----------] 1 test from FormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FormatTestSuite.KeyRedifenitionTest" end time: May 06 22:09 RTZ 2 (çèìà)
+"FormatTestSuite.KeyRedifenitionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+11/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
+12/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
+13/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
+14/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
+15/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/4
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/4 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/76 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
+16/76 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/5" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/5
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/5 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/76 Testing: ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+17/76 Test: ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/ValidFormatTestSuite
+[ RUN      ] ValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] ValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from ValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/76 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
+18/76 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/76 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
+19/76 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/76 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
+20/76 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/76 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
+21/76 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/76 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
+22/76 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/76 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
+23/76 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/76 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
+24/76 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/76 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
+25/76 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/76 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
+26/76 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/76 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
+27/76 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/76 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
+28/76 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/4
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/4 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/76 Testing: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
+29/76 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite
+[ RUN      ] BoolValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] BoolValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/76 Testing: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
+30/76 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite
+[ RUN      ] BoolValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] BoolValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/76 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
+31/76 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/76 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
+32/76 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/76 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
+33/76 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/76 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
+34/76 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/76 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"
+35/76 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/76 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"
+36/76 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/76 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"
+37/76 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/76 Testing: CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"
+38/76 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite
+[ RUN      ] CommentValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] CommentValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" end time: May 06 22:09 RTZ 2 (çèìà)
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/76 Testing: CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"
+39/76 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite
+[ RUN      ] CommentValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] CommentValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" end time: May 06 22:09 RTZ 2 (çèìà)
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""
+40/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""
+41/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "
+42/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""
+43/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""
+44/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""
+45/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/5" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/5
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/5 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""
+46/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/6" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/6
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/6 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/76 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""
+47/76 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/7" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/7
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/7
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/7 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/76 Testing: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "
+48/76 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite
+[ RUN      ] ValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] ValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" end time: May 06 22:09 RTZ 2 (çèìà)
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/76 Testing: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"
+49/76 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite
+[ RUN      ] ValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] ValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/76 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"
+50/76 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/76 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"
+51/76 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/76 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"
+52/76 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/76 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"
+53/76 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" end time: May 06 22:09 RTZ 2 (çèìà)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/76 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"
+54/76 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/76 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."
+55/76 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/76 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"
+56/76 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/76 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."
+57/76 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/76 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."
+58/76 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" end time: May 06 22:09 RTZ 2 (çèìà)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/76 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"
+59/76 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/76 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""
+60/76 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/76 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""
+61/76 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" end time: May 06 22:09 RTZ 2 (çèìà)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/76 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"
+62/76 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/76 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"
+63/76 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/76 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"
+64/76 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/76 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"
+65/76 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/76 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"
+66/76 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" end time: May 06 22:09 RTZ 2 (çèìà)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/76 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["
+67/76 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/76 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"
+68/76 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/76 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"
+69/76 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/76 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"
+70/76 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/76 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"
+71/76 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/76 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"
+72/76 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/76 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"
+73/76 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/76 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"
+74/76 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/76 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"
+75/76 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" end time: May 06 22:09 RTZ 2 (çèìà)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/76 Testing: CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"
+76/76 Test: CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"
+Command: "D:/Desktop/labwork6/build/tests/Debug/parser_tests.exe" "--gtest_filter=CommentValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: D:/Desktop/labwork6/build/tests
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" start time: May 06 22:09 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\Desktop\labwork6\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = CommentValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/InvalidFormatTestSuite
+[ RUN      ] CommentValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] CommentValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from CommentValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" end time: May 06 22:09 RTZ 2 (çèìà)
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 22:09 RTZ 2 (çèìà)

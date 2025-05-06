@@ -1,0 +1,5 @@
+if(EXISTS "D:/Desktop/labwork6/build/tests/parser_tests[1]_tests.cmake")
+  include("D:/Desktop/labwork6/build/tests/parser_tests[1]_tests.cmake")
+else()
+  add_test(parser_tests_NOT_BUILT parser_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/2d9a54c12b91e4e535eb9b5b1ca7935c/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/1e59203bc53d546c314a9a311fb6fe37/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/Desktop/labwork6/build/_deps/googletest-subbuild/CMakeFiles/fb0c104810e2b6fdaddda541f9f3cd26/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

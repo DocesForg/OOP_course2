@@ -1,0 +1,10 @@
+^D:\DESKTOP\LABWORK6\BUILD\_DEPS\GOOGLETEST-SRC\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Desktop/labwork6 -BD:/Desktop/labwork6/build --check-stamp-file D:/Desktop/labwork6/build/_deps/googletest-build/googletest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

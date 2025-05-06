@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Desktop/labwork6/build/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/lib/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/bin/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/tests/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/_deps/googletest-build/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"D:/Desktop/labwork6/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
