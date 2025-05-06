@@ -1,10 +1,4 @@
-cmake_minimum_required(VERSION 3.12)
+add_library(bst INTERFACE bst.hpp)
+add_library(container INTERFACE container.hpp iterator.hpp)
 
-if(NOT CMAKE_BUILD_TYPE)
-    set(CMAKE_BUILD_TYPE Release)
-endif()
-
-message(STATUS "Libraries build type: ${CMAKE_BUILD_TYPE}")
-
-add_subdirectory(bst)
-add_subdirectory(tree)
+target_link_libraries(container INTERFACE bst)
